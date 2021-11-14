@@ -34,7 +34,7 @@ public class Topic_01_Check_Environment {
 	public void TC_02_ValidatePageTitle() {
 		// Login Page title
 		String loginPageTitle = driver.getTitle();
-		Assert.assertEquals(loginPageTitle, "Facebook – log in or sign up");
+		Assert.assertEquals(loginPageTitle, "Facebook â€“ log in or sign up");
 	}
 
 	@Test
@@ -43,8 +43,8 @@ public class Topic_01_Check_Environment {
 		Assert.assertTrue(driver.findElement(By.xpath("//form[@data-testid='royal_login_form']")).isDisplayed());
 	}
 
-	@AfterClass
-	public void afterClass() {
-		driver.quit();
-	}
+//	@AfterClass
+//	public void afterClass() {
+//		driver.quit();
+//	}
 }

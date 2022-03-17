@@ -1,0 +1,187 @@
+Project Name,Project Status,Planting Season,Country,Commercial Manager,Project Stage,Project Phase,Client Name,Time in Stage (days),Planting Date,Close Date,Harvest Date,Sector,Value,Age of Program,Value at Scale,Weighted Value,Product,Year
+200111,ACTIVE,c,Malawi,cherryqa,Acquisition,Identification,cherryTT,60,2021-12-14,2021-12-14,2021-12-06,Agriculture,5,5,5.00,0,FieldSense,55
+2022,ACTIVE,c,Fuxin,cherryqa,Execution,Payout Calculation,qa,70,2021-12-07,2021-12-14,2021-12-13,Energy,5,3,5.00,5,FieldSense,
+2022T,ACTIVE,Wet Season,Malawi,Moraa,Acquisition,Qualifying,Release,40,2022-01-25,2022-03-31,2022-01-31,Energy,10000,2 years,10.00,8000,Index Insurance,2022
+2022T,ACTIVE,c,Malawi,cherryqa,Acquisition,Identification,CBN,39,2021-12-22,2021-12-16,2021-12-13,Energy,5,55,5.00,0,FieldSense,5
+2022T,ACTIVE,Wet Season,Malawi,rose,Acquisition,Qualifying,CBN,40,,2022-01-31,,Energy,900000000,3,999999999.00,720000000,FieldSense,2022
+2022T,ACTIVE,Wet Season,Malawi,Moraa,Acquisition,Qualifying,Release,40,2022-01-25,2022-03-31,2022-01-31,Energy,10000,2 years,10.00,8000,Index Insurance,2022
+2022T,ACTIVE,rain,Malawi,Moraa,Acquisition,Qualifying,Thrive Agric,40,2022-01-25,2022-01-25,2022-02-28,Energy,2500000,2,10.00,2000000,Dry Run,2021
+2022-Tess,ACTIVE,4,Malawi,cherryqa,Execution,CCE Preparation,qA,60,2021-12-14,2021-12-08,2021-12-14,Agriculture,999999999,4,9999999900.00,999999999,Dry Run,
+2022-Test,ACTIVE,d,Malawi,cherryqa,Execution,CCE Preparation,qaa,60,2021-12-11,2021-12-07,2021-12-06,Energy,5,3,5555.00,5,FieldSense,
+2022-TTT,ACTIVE,d,Uganda,cherryqa,Acquisition,Identification,kill,13,2021-12-14,2021-12-09,2021-12-06,Agriculture,100000,5,1000000000.00,0,FieldSense,5
+2023,ACTIVE,wet,Malawi,binhvu,Acquisition,Invoicing,binhvq,70,2021-10-06,2021-10-08,2021-10-05,Agriculture,5000,3 years,6000.00,5000,Index Insurance,
+2037-005,ACTIVE,wet,Dubai,binhvu,Acquisition,Engagement,binhvq,12,2021-12-15,2021-12-23,2021-12-14,Agriculture,1000,3 years,99999999999.00,200,FieldSense,2021
+2037-006,ACTIVE,wet,Dubai,binhvu,Acquisition,Engagement,binhva,12,2021-12-21,2021-12-30,2021-12-15,Agriculture,1000,3 years,1000.00,200,FieldSense,2022
+2037-006,ACTIVE,wet,Dubai,rose,Acquisition,Qualifying,binhva,40,,2023-01-31,,Agriculture,1000,4,10000.00,800,Pay at Harvest,2022
+2037-007,ACTIVE,wet,Fuxin,binhvu,Acquisition,Engagement,binhvq,12,2021-12-27,2021-12-22,2021-12-30,Agriculture,1000,3 years,1000.00,200,Index Insurance,2021
+2037-009,ACTIVE,aa,Dubai,binhvu,Acquisition,Engagement,binhvq,12,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,200,FieldSense,2021
+2037-010,ACTIVE,wet,Dubai,binhvu,Research,Research,binhvq,69,2021-12-07,2021-12-24,2021-12-21,Agriculture,1000,3 years,1000.00,0,FieldSense,2021
+2037-011,ACTIVE,wet,Dubai,binhvu,Acquisition,Engagement,binhvq,12,2021-12-07,2021-12-29,2021-12-28,Energy,100,3 years,1000.00,20,FieldSense,2021
+2037-012,ACTIVE,aa,Dubai,binhvu,Research,Research,binhvq,69,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,0,Pay at Harvest,2021
+2037-013,ACTIVE,aa,Dubai,binhvu,Research,Research,binhvq,69,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,0,Pay at Harvest,2021
+2037-014,ACTIVE,aa,Dubai,binhvu,Research,Research,binhvq,69,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,0,Pay at Harvest,2021
+2037-015,ACTIVE,aa,Dubai,binhvu,Research,Research,binhvq,69,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,0,Pay at Harvest,2021
+2037-016,ACTIVE,aa,Dubai,binhvu,Research,Research,binhvq,69,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,0,Pay at Harvest,2021
+2307-001,ACTIVE,wet,Dubai,binhvu,Research,Research,binhvq,74,2021-12-15,2021-12-02,2021-12-15,Agriculture,100,3,100.00,0,Index Insurance,
+2307-002,ACTIVE,wat,Dubai,binhvu,Research,Research,binhvq,70,2021-12-30,2021-12-31,2021-12-30,Agriculture,1000,3 year,1000.00,0,Pay at Harvest,
+2307-003,ACTIVE,wet,Dubai,binhvu,Research,Research,binhvq,70,2021-12-15,2021-12-31,2021-12-29,Agriculture,1000,3 years,1000.00,0,Dry Run,
+2307-004,ACTIVE,wet,Dubai,binhvu,Research,Research,binhvq,70,2021-12-08,2021-12-17,2021-12-21,Agriculture,1000,3 years,1000.00,0,FieldSense,
+2307-test,ACTIVE,wet,Dubai,binhvu,Research,Research,binhvq,70,2021-12-08,2021-12-23,2021-12-15,Agriculture,100,3 years,1000.00,0,FieldSense,
+2402,ACTIVE,AAAA,Cubah,kien,Research,Research,Kien,11,2022-02-25,2022-02-25,2022-02-26,Agriculture,0,d,0.00,0,FieldSense,2022
+2402 Test bug,ACTIVE,TEST,Cubah,kien,Research,Research,Kien,11,2022-02-25,2022-02-25,2022-02-28,Agriculture,0,3d,0.00,0,Pay at Harvest,2022
+AA,ACTIVE,dru,Dubai,Cristian,Renewal,Renewal,AA KCEP,94,,2021-10-21,,Energy,10000,3 years,1200000.00,10000,Index Insurance,
+AAa-2,ACTIVE,asdas,Nigeria,Cristian,Acquisition,Invoicing,Atimes,70,,2021-11-30,,Energy,1000,3,100000.00,1000,Index Insurance,
+aaaaacccc,ACTIVE,,Fuxin,cherryqa,Renewal,Renewal,KSC,94,,2021-09-02,,Agriculture,0,,0.00,0,Index Insurance,
+AAAA Cristian Test,ACTIVE,Long Rain,Madagascar,Cristian,Research,Research,Cristian Test Nairobi,48,,2022-01-27,,Energy,100000,4,100000.00,0,FieldSense,2022
+AAAA Cristian Test,ACTIVE,Dry,Madagascar,Cristian,Acquisition,Qualifying,Cristian Test Nairobi,48,,2022-01-28,,Energy,10000,5,1000000.00,8000,Index Insurance,2022
+AAAA test,ACTIVE,wet,Kenya,Cristian,Renewal,Renewal,TestClient,93,2021-11-23,2021-11-30,2021-11-20,Energy,19000,4,10000.00,19000,Index Insurance,
+AAA - KCEP,ACTIVE,dry season,Madagascar,Cristian,Acquisition,Invoicing,KCEP2,76,2021-10-20,2021-11-30,2021-10-27,Agriculture,30000,2 years,300000.00,30000,Index Insurance,
+AAA Mukami,ACTIVE,dry season,Madagascar,Cristian,Acquisition,Engagement,Mukami,118,,2021-11-24,,Energy,100001,3 age,1000000.00,20000,Index Insurance,
+AA new project to testt,ACTIVE,wetccc,Madagascar,cherryqa,Acquisition,Engagement,Tech,83,2021-11-18,2021-11-18,2021-11-18,Agriculture,1000,45,100.00,200,Index Insurance,
+AA rose,ACTIVE,Long Rain,Nigeria,laidbackpeter,Acquisition,Qualifying,AAAA,32,,2022-02-25,,Energy,3434,5,5454454.00,2747,Index Insurance,2022
+AA rose,ACTIVE,dry season,Nigeria,Cristian,Acquisition,Engagement,AAAA,127,,2021-10-31,,Energy,100000,3 ages,2000000.00,20000,Index Insurance,
+AA rose,ACTIVE,tets,Nigeria,Moraa,Acquisition,Qualifying,AAAA,35,2022-02-01,2022-02-01,2022-02-28,Energy,12,2,120120.00,9,Dry Run,2022
+AA test,ACTIVE,dry,Nigeria,Cristian,Acquisition,Invoicing,AA test,70,,2021-10-30,,Agriculture,30000,4,3000000.00,30000,Index Insurance,
+ABC,ACTIVE,,Dubai,cherryqa,Renewal,Renewal,WFP,92,,2021-08-31,,Agriculture,0,,0.00,0,Index Insurance,
+AFF,ACTIVE,555,Fuxin,cherryqa,Acquisition,Invoicing,Apollo,74,2021-10-19,2021-10-12,2021-10-19,Agriculture,5,3 years,0.50,5,Index Insurance,
+A Label,ACTIVE,Dry,Dubai,Cristian,Research,Research,Client,59,,2022-01-13,,Agriculture,10000,3,100000.00,0,FieldSense,2022
+Alluvial DS -Cristian,ACTIVE,,Madagascar,cherryqa,Renewal,Renewal,Default Partner,314,2021-08-18,2021-08-08,2021-08-16,Agriculture,0,,0.00,0,Index Insurance,
+Andrei Cristian Project,ACTIVE,,Kenya,Cristian,Renewal,Renewal,Apollo,187,2021-09-30,2021-09-30,2021-10-28,Energy,78909,,0.00,78909,Index Insurance,
+Apollo Kenya 2021 LR,ACTIVE,,Madagascar,benson,Acquisition,Engagement,Default Partner,230,,2021-08-08,,Energy,0,,0.00,0,Index Insurance,
+A renewal 2,ACTIVE,dry,Nigeria,benson,Execution,CCE Preparation,Apollo,83,2021-11-23,2021-11-30,2021-11-23,Energy,100000,5,100000.00,100000,Index Insurance,
+A - test,ACTIVE,,Nigeria,GiangS,Acquisition,Invoicing,A test client,74,,2021-10-12,,Energy,120000,,0.00,120000,Index Insurance,
+A -test again project,ACTIVE,dry,Kenya,Cristian,Acquisition,Engagement,A- test gain,140,2021-10-27,2021-10-13,2021-10-06,Agriculture,30000,4,3000000.00,6000,Index Insurance,2002
+AWRC,ACTIVE,Test,Cubah,cherryqa,Renewal,Renewal,Cherryqa,105,2021-10-23,2021-10-14,2021-10-21,Agriculture,125000,3,5.99,125000,Index Insurance,
+AWRCC,ACTIVE,c,Fuxin,cherryqa,Acquisition,Qualifying,Cherryqa,94,2021-11-09,2021-11-16,2021-11-16,Energy,5,55,5.00,4,Index Insurance,
+AWw,ACTIVE,gg,Kenya,cherryqa,Renewal,Renewal,Cherryqa,105,2021-11-16,2021-11-09,2021-11-23,Agriculture,44,55,44.00,44,Index Insurance,
+binh-2208-test,ACTIVE,wet,Madagascar,binhvu,Acquisition,Invoicing,binh,75,2021-12-22,2021-12-17,2021-12-28,Agriculture,100,3 years,100.00,100,FieldSense,
+Binh's Project,ACTIVE,WINTER,vietnam,kien,Acquisition,Engagement,Kien,18,,2022-02-17,,Agriculture,0,3y,0.00,0,FieldSense,2022
+Binh's Project,ACTIVE,wettt,Cubah,binhvu,Acquisition,Engagement,binh,132,,2021-10-27,,Agriculture,0,3,0.00,0,Index Insurance,5
+Binh's Project,ACTIVE,Binh Em,Cubah,cherryqa,Acquisition,Qualifying,AA test,47,2022-01-05,2022-01-11,2022-01-18,Agriculture,5,7,5.00,4,Pay at Harvest,1
+Binh's Project,ACTIVE,WINTER,vietnam,kien,Acquisition,Engagement,Kien,18,,2022-02-17,,Agriculture,0,3y,0.00,0,FieldSense,2022
+Binh's Project,ACTIVE,WET,vietnam,kien,Acquisition,Qualifying,Kien,46,,2022-01-21,,Agriculture,0,2m,0.00,0,Dry Run,2022
+Brian-Sabina,ACTIVE,Wet Sesason,Zambia,Moraa,Acquisition,Engagement,BrianSab,13,2022-06-30,2022-05-01,2022-12-30,Agriculture,10,2,1000.00,2,Dry Run,2022
+CATest,ACTIVE,remove,Nigeria,Cristian,Acquisition,Engagement,CBN,76,,2021-12-17,,Energy,10000,3,100000.00,2000,Index Insurance,2022
+cccc,ACTIVE,f,Fuxin,cherryqa,Acquisition,Invoicing,ccccc,70,2021-12-16,2021-12-08,2021-12-07,Agriculture,555,4,555.00,555,Index Insurance,
+Central Bank of Romania,ACTIVE,summer,United Kingdom,Cristian,Research,Research,Govenrement of Romania,4,2022-09-28,2022-06-22,2024-06-26,Agriculture,100000,4 years,1000000.00,0,Index Insurance,2022
+Chad Africa,ACTIVE,Season 1,Zambia,benson,Research,Research,Chad - GVT,25,2022-02-01,2022-02-28,2022-02-28,Agriculture,1,2,2.00,0,Dry Run,2022
+cherry,ACTIVE,f,Dubai,cherryqa,Acquisition,Invoicing,yyy,70,2021-12-09,2021-12-06,2021-12-06,Agriculture,45,5,54.00,45,Pay at Harvest,
+Cherry,ACTIVE,,Zambia,benson,Acquisition,Invoicing,WFP,76,,2021-08-09,,Energy,0,,0.00,0,Index Insurance,
+CHERRY 2,ACTIVE,dw,Dubai,cherryqa,Acquisition,Invoicing,cherry_client 1,70,2021-12-20,2021-12-31,2021-12-23,Energy,2,2,33.00,2,Dry Run,2022
+cherry dec 27_project,ACTIVE,hot,Kenya,cherryqa,Acquisition,Identification,cherry client,11,2021-12-28,2023-12-19,2022-12-28,Energy,1000,2,1000.00,0,Index Insurance,
+cherryv1,ACTIVE,c,Fuxin,cherryqa,Acquisition,Invoicing,V1,70,2021-12-01,2021-12-08,2021-12-14,Agriculture,4,3,4.00,4,FieldSense,
+chettty7,ACTIVE,v,Cubah,cherryqa,Acquisition,Invoicing,cRM,70,2021-12-14,2021-12-09,2021-12-13,Agriculture,5,34,50.00,5,FieldSense,
+CHMM,ACTIVE,cc,Dubai,cherryqa,Acquisition,Invoicing,ClientTest,76,2021-12-15,2021-12-07,2021-12-07,Energy,33,4,33.00,33,Index Insurance,
+clone project_cherry,ACTIVE,de,Fuxin,cherryqa,Acquisition,Invoicing,Cherry,76,,2021-12-20,,Agriculture,200000,3,230000.00,200000,Dry Run,
+CM Demo,ACTIVE,WET,Zambia,Sabina,Acquisition,Engagement,TEST,10,2022-03-01,2022-02-01,2022-05-12,Agriculture,10,2,100.00,2,Pay at Harvest,2022
+Commercial Demo,ACTIVE,Wet,Zambia,Moraa,Research,Research,CM,10,2022-03-30,2022-02-09,2022-09-28,Agriculture,10,2,1000.00,0,Dry Run,2022
+Commercial demo 1,ACTIVE,Wet,Kenya,Moraa,Execution,CCE Preparation,cm1,5,2022-08-10,2022-07-07,2022-11-24,Agriculture,10,2,1000.00,10,Index Insurance,2022
+Cristian Andrei Andriesei,ACTIVE,,Madagascar,cherryqa,Acquisition,Engagement,Scagric,97,2021-08-10,2021-08-17,2021-08-09,Energy,100,,0.00,20,Index Insurance,
+Cristian New Project,ACTIVE,,Kenya,Cristian,Acquisition,Qualifying,Apollo,74,2021-09-01,2021-09-30,2021-09-30,Agriculture,0,,0.00,0,Index Insurance,
+DALI,ACTIVE,,Kenya,Cristian,Acquisition,Invoicing,Default Partner,74,,2021-08-08,,Agriculture,57889,55,0.00,57889,Index Insurance,
+Demo creation day,ACTIVE,Kim QA,United Kingdom,cherryqa,Acquisition,Identification,kim,11,2022-02-09,2022-02-08,2022-02-23,Energy,5,9,5.00,0,FieldSense,2022
+Demo Friday Test Sync,ACTIVE,wet season,Nigeria,rose,Acquisition,Identification,Demo Friday Test Sync,98,2021-11-01,2021-11-30,2021-11-30,Agriculture,1000,4,1000.00,0,Index Insurance,
+Digifarm Kenya 2021,ACTIVE,august,Zambia,roy,Acquisition,Identification,Apollo SR,140,,2021-08-08,,Energy,50,0,0.00,0,Index Insurance,
+Existing test,ACTIVE,33,Nigeria,Moraa,Acquisition,Procurement,Innovation,97,2021-11-02,2021-11-01,2021-11-15,Energy,33,4,33.00,29,Index Insurance,
+Famsad DS,ACTIVE,3,None,roy,Acquisition,Identification,Default Partner,139,,2021-08-08,,Energy,0,0,0.00,0,Index Insurance,
+Feb Wed 2022,ACTIVE,Wet Long,Kenya,Moraa,Acquisition,Engagement,FebWed22,12,2022-10-19,2022-06-03,2022-11-09,Agriculture,110,2,11.00,22,Dry Run,2022
+Feb Wed 2022,ACTIVE,Long Renewal,Kenya,Moraa,Acquisition,Engagement,FebWed22,11,2022-05-12,2022-02-24,2022-09-07,Agriculture,10,2,10000.00,7,Dry Run,2022
+Feb Wed 2022,ACTIVE,Long Rain,Kenya,Moraa,Acquisition,Engagement,FebWed22,12,2022-04-01,2022-03-03,2022-07-06,Agriculture,10000,2,11000.00,7000,Dry Run,2022
+FWV,ACTIVE,chery,Dubai,cherryqa,Acquisition,Invoicing,cherrykim,76,2021-11-16,2021-11-08,2021-11-08,Energy,575000,4,50.00,575000,Index Insurance,
+Heifer UG,ACTIVE,,,roy,Acquisition,Identification,Default Partner,138,,2021-08-08,,Energy,0,,0.00,0,Index Insurance,
+HHHA,ACTIVE,,Kenya,cherryqa,Renewal,Renewal,IFAD,94,2021-08-11,2021-08-16,,Agriculture,1000000,,0.00,1000000,Index Insurance,
+huhu,ACTIVE,w,Fuxin,cherryqa,Execution,Payout Calculation,cherry23266,83,2021-12-07,2021-12-23,2021-12-15,Energy,100,2,1000.00,100,Index Insurance,
+Innovation 2Step Protocol,ACTIVE,wet season,Kenya,Moraa,Execution,Payout Calculation,Innovation,61,2021-10-01,2021-11-30,2021-11-23,Agriculture,100000,3 months,10000.00,100000,Index Insurance,
+Innovation 3Step Protocol,ACTIVE,wet season,None,Moraa,Acquisition,Procurement,Innovation2,130,2021-10-26,2021-11-30,2021-11-30,Agriculture,200000,3 months,10000.00,100000,Index Insurance,
+Innovative Project,ACTIVE,Rain,Kenya,Sabina,Execution,CCE Ongoing,Product Team,54,,2021-10-29,,Agriculture,1500000,5,0.00,1500000,Index Insurance,2021
+KCEP Kenya 2021 LR,ACTIVE,,,roy,Acquisition,Identification,Default Partner,139,,2021-08-08,,Energy,0,,0.00,0,Index Insurance,
+kien-debugging-1,ACTIVE,aa,Dubai,kien,Research,Research,binhvq,69,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,0,Pay at Harvest,2021
+kien-debugging-2,ACTIVE,aa,Dubai,binhvu,Research,Research,binhvq,69,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,0,Pay at Harvest,2021
+kien-debugging-3,ACTIVE,aa,Dubai,binhvu,Research,Research,binhvq,69,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,0,Pay at Harvest,2021
+kien-debugging-4,ACTIVE,aa,Dubai,binhvu,Research,Research,binhvq,69,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,0,Pay at Harvest,2021
+kien-debugging-5,ACTIVE,aa,Dubai,binhvu,Research,Research,binhvq,69,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,0,Pay at Harvest,2021
+Kien Test 222,ACTIVE,3,Malawi,kien,Acquisition,Engagement,Kien,11,2022-02-25,2022-02-25,2022-02-26,Agriculture,0,2d,0.00,0,FieldSense,2022
+Kien Test 222,ACTIVE,s,Malawi,binhvu,Acquisition,Qualifying,Kien,82,,2021-12-16,,Agriculture,999999999,3y,0.00,799999999,Pay at Harvest,
+Kien Test 222,ACTIVE,TEST RENEWAL SYNC,Malawi,kien,Acquisition,Engagement,Kien,11,2022-02-25,2022-02-25,2022-02-25,Energy,0,3t,0.00,0,Dry Run,2022
+kien test pipline populate,ACTIVE,Winter,Malawi,kien,Research,Research,Kien,46,,2022-01-28,,Agriculture,0,3y,0.00,0,Dry Run,2022
+Kien Test Project,ACTIVE,winter,Malawi,kien,Research,Research,CBN,82,,2021-12-16,,Energy,0,3m,0.00,0,Pay at Harvest,2022
+kien-trying-,ACTIVE,aa,Dubai,binhvu,Research,Research,binhvq,69,2021-12-07,2021-12-16,2021-12-29,Agriculture,1000,3years,1000.00,0,Pay at Harvest,2021
+KIM,ACTIVE,kimqa,Madagascar,cherryqa,Acquisition,Invoicing,cherry,70,2021-11-23,2021-11-23,2021-11-23,Energy,500,55,500.00,500,Index Insurance,
+kim55,ACTIVE,555,Uruguay,cherryqa,Research,Research,555,12,2022-02-08,2022-02-01,2022-02-24,Agriculture,5,55,5.00,0,Pay at Harvest,2022
+kimm,ACTIVE,a,Kenya,cherryqa,Acquisition,Procurement,kimmm7,70,2021-12-15,2021-12-08,2021-12-06,Agriculture,1000,5,0.00,500,Dry Run,
+kimmmmm,ACTIVE,êre,None,cherryqa,Renewal,Renewal,mmmmm,92,,2021-10-13,2021-10-21,Energy,100,0,0.00,100,Index Insurance,
+KIMQA,ACTIVE,c,Fuxin,cherryqa,Renewal,Renewal,cherrykimqa,94,2021-11-08,2021-11-09,2021-11-22,Energy,5,5,5.00,5,Index Insurance,
+KimTest,ACTIVE,c,Cubah,cherryqa,Renewal,Renewal,Cherryem,92,2021-12-15,2021-12-14,2021-12-07,Agriculture,500000,3,6.00,500000,Index Insurance,
+kim TQA,ACTIVE,55,United Kingdom,cherryqa,Research,Research,cherryTT,11,2022-02-03,2022-02-01,2022-02-04,Agriculture,5,55,5.00,0,Dry Run,2022
+KYC,ACTIVE,Long RainT,Dubai,cherryqa,Research,Research,fr,67,2021-12-08,2021-12-23,2021-12-12,Agriculture,6,6,6.00,0,FieldSense,2020
+New2 KIM,ACTIVE,55,Kenya,cherryqa,Acquisition,Engagement,cherry,94,2021-11-25,2021-11-30,2021-11-25,Energy,9999,55,999.00,6999,Index Insurance,
+New3 KIM,ACTIVE,555,Fuxin,cherryqa,Acquisition,Engagement,cherry,94,2021-11-17,2021-11-16,2021-11-24,Agriculture,55,666,8.00,38,Index Insurance,
+New AA Project,ACTIVE,55,Madagascar,cherryqa,Execution,CCE Preparation,AA KCEP,83,2021-11-17,2021-11-09,2021-11-08,Energy,55,66,55.00,55,Index Insurance,
+New AA Project,ACTIVE,Test Renewal Sync Staging,Madagascar,rose,Acquisition,Qualifying,AA KCEP,40,,2022-01-31,,Energy,1000,4,10000.00,800,FieldSense,2022
+New AA Project,ACTIVE,Test Renewal Sync Staging,Madagascar,rose,Acquisition,Qualifying,AA KCEP,40,,2022-01-31,,Energy,1000,4,10000.00,800,FieldSense,2022
+New AA Project,ACTIVE,wet,Madagascar,Moraa,Acquisition,Qualifying,AA KCEP,35,2022-01-31,2022-01-31,2022-01-31,Energy,1000,2,100.00,800,Dry Run,2022
+New AA_Project,ACTIVE,ccc,Malawi,cherryqa,Acquisition,Engagement,AA KCEP,94,2021-11-10,2021-11-16,2021-11-16,Agriculture,55,4,55.00,38,Index Insurance,
+New AWRC Project,ACTIVE,cccc,Madagascar,cherryqa,Execution,CCE Ongoing,Cherryqa,76,2021-11-25,2021-11-23,2021-11-16,Energy,55599999,55,5550000.00,55599999,Index Insurance,
+New DALI,ACTIVE,5,Madagascar,cherryqa,Execution,Payout Calculation,Default Partner,93,2021-11-09,2021-11-09,2021-11-16,Agriculture,5,5,5.00,5,Index Insurance,
+New KIM,ACTIVE,55,Kenya,cherryqa,Acquisition,Engagement,cherry,92,2021-11-16,2021-11-14,2021-11-08,Energy,10000,55,10000.00,7000,Index Insurance,
+New KIMQA,ACTIVE,f,Madagascar,cherryqa,Execution,Payout Calculation,cherrykimqa,94,2021-11-24,2021-11-16,2021-11-08,Energy,9,5,9.00,9,Index Insurance,
+New KIMQA1,ACTIVE,5,Fuxin,cherryqa,Execution,Payout Calculation,cherrykimqa,76,2021-11-09,2021-11-17,2021-11-24,Energy,5,5,5.00,5,Index Insurance,
+New Research test,ACTIVE,,Kenya,GiangS,Acquisition,Identification,New Client Kenya,138,,2021-10-07,,Energy,5678788,,0.00,0,Index Insurance,
+NEWW,ACTIVE,c,Dubai,cherryqa,Execution,CCE Preparation,A new,76,2021-12-22,2021-12-22,2021-12-21,Agriculture,5,4,5.00,5,Index Insurance,666
+NIRSAL DS,ACTIVE,,,roy,Acquisition,Identification,Default Partner,233,,2021-08-08,,Energy,0,,0.00,0,Index Insurance,
+PIE MAVUNO Sync,ACTIVE,Wet,Kenya,Moraa,Acquisition,Identification,Rosa,103,2021-12-01,2021-12-31,2022-12-01,Agriculture,10000,3,10.00,0,Index Insurance,
+PIE sync,ACTIVE,wet season,Madagascar,rose,Acquisition,Identification,PIE sync,98,,2021-11-30,,Energy,20,5,20.00,0,Index Insurance,
+PN,ACTIVE,Long Rain,Zambia,benson,Research,Research,Pn,12,2022-02-23,2022-02-23,2022-02-28,Agriculture,5,3,1.05,0,Index Insurance,2022
+Program Loan,ACTIVE,dfgd,Kenya,Cristian,Research,Research,CBZ,80,,2021-12-15,,Energy,100000,4,1000000.00,0,Index Insurance,2022
+Project 201,ACTIVE,"Season: to do with  integrity, corruption might. One, Season: to do with  integrity, corruption might. One, Season: to do with  integrity, corruption might. One, Season: to do with  integrity, corrup21",Zambia,benson,Research,Research,Chad - GVT,25,2022-02-01,2023-01-31,2022-02-28,Agriculture,2,2,2.00,0,Pay at Harvest,2022
+Project Still creates on PIE,ACTIVE,Long rains,Kenya,rose,Research,Research,Project Still,60,,2022-04-28,,Agriculture,100,3,100.00,0,FieldSense,2022
+ProjectTest,ACTIVE,Short,Kenya,Cristian,Research,Research,NewClient,60,,2022-10-12,,Energy,1000000,3,1000000.00,0,Index Insurance,2022
+PULA,ACTIVE,Plantingbbbbbbbbbbbb,North East,cherryqa,Renewal,Renewal,New client11,137,,2021-10-14,,Agriculture,999099,10 Yeaarrrr,0.66,999099,Index Insurance,
+PULA1A,ACTIVE,,None,benson,Acquisition,Engagement,1,83,2021-08-17,2021-08-17,2021-08-17,Agriculture,790,,0.00,158,Index Insurance,
+QAQ,ACTIVE,cc,Madagascar,cherryqa,Execution,CCE Preparation,cherrykimqa,86,2021-11-16,2021-11-17,2021-11-15,Agriculture,5,gdfg,5.00,5,Index Insurance,
+RandomTest,ACTIVE,,Kenya,Sabina,Acquisition,Identification,Tech,145,,2021-10-06,,Agriculture,20000,,0.00,0,Index Insurance,
+Renewal proj 2,ACTIVE,wet season,Kenya,roy,Acquisition,Qualifying,Innovation,106,2021-11-08,2021-11-16,2021-11-01,Agriculture,1000,6,6000.00,800,Index Insurance,
+Rose-Sabina,ACTIVE,Wet,Zambia,Moraa,Execution,CCE Ongoing,Rose-Sabina Client,45,2022-01-01,2022-01-31,2022-01-31,Agriculture,10,2,1000.00,10,Dry Run,2022
+Rose-Sabina,ACTIVE,Long Rain,Zambia,Moraa,Acquisition,Qualifying,Rose-Sabina Client,25,2022-02-10,2022-02-28,2022-02-28,Agriculture,10000,2,10.00,8000,Dry Run,2025
+Sabina Feb,ACTIVE,Wet Rain,Zambia,Moraa,Research,Research,SabinaFeb,14,2022-02-21,2022-02-21,2022-03-31,Agriculture,10,2,10.00,0,Dry Run,2022
+Sabina Feb,ACTIVE,Long Rain,Zambia,Moraa,Acquisition,Engagement,SabinaFeb,13,2022-08-01,2022-12-01,2022-06-01,Agriculture,10,2 years,1000.00,7,Dry Run,2022
+Sabina Feb,ACTIVE,Wet Rain,Zambia,Moraa,Acquisition,Engagement,SabinaFeb,14,2022-04-01,2022-02-21,2022-05-31,Agriculture,1,2,10000.00,0,Dry Run,2022
+Sabina March,ACTIVE,Wet,Zambia,Moraa,Acquisition,Engagement,sabinaMarch,3,2022-04-01,2022-03-04,2022-05-01,Agriculture,100000,2,10.00,20000,Dry Run,2022
+Sabina March,ACTIVE,Dry,Zambia,Moraa,Acquisition,Engagement,sabinaMarch,3,2022-06-03,2022-03-16,2022-07-01,Agriculture,1000,2,10.00,700,Dry Run,2022
+Sabina Test,ACTIVE,Dry,Kenya,Moraa,Acquisition,Qualifying,SBM,27,2022-02-08,2022-02-24,2022-02-21,Agriculture,10000,2,10.00,8000,Dry Run,2022
+Sabina Test,ACTIVE,Wet,Kenya,Moraa,Research,Research,SBM,27,2022-02-09,2022-10-12,2022-11-29,Agriculture,10000,2,10.00,0,Dry Run,2022
+Skyfall Sync 2,ACTIVE,wet season,Nigeria,GiangS,Research,Research,CBZ,90,2021-12-01,2021-12-31,2021-12-14,Agriculture,2,2,2.00,0,Index Insurance,
+SSS,ACTIVE,,Cubah,cherryqa,Acquisition,Contracting,FISP,70,2021-08-23,2021-08-25,2021-08-16,Agriculture,2,,0.00,1,Index Insurance,
+Tessssst,ACTIVE,c,Dubai,cherryqa,Research,Research,ccc,70,2021-12-14,2021-12-15,2021-12-13,Agriculture,5,4,5.00,0,FieldSense,4
+test,ACTIVE,wet,Algeria,Sabina,Research,Research,test,10,2022-02-28,2022-02-22,2022-03-01,Agriculture,10,2,100.00,0,Pay at Harvest,2022
+Test-2022,ACTIVE,c,Fuxin,cherryqa,Acquisition,Identification,qs,70,2021-12-08,2021-12-15,2021-12-06,Energy,4,4,4444.00,0,Index Insurance,
+TestClient,ACTIVE,3,Madagascar,cherryqa,Research,Research,cherry,80,2021-12-08,2021-12-14,2021-12-06,Agriculture,5,3,5.00,0,Index Insurance,45
+test creation date,ACTIVE,Long Rain,vietnam,phong,Research,Research,Phong Tran,13,2022-02-23,2022-02-28,2022-02-26,Agriculture,1,3,2.00,0,FieldSense,2022
+Test Creation Day 2,ACTIVE,Test,United Kingdom,cherryqa,Research,Research,KimCherrry,13,2022-02-10,2022-02-08,2022-02-24,Agriculture,1,8,1.00,0,Dry Run,2022
+Test Cristian,ACTIVE,rain,Nigeria,benson,Acquisition,Identification,CBN,92,2021-08-25,2021-08-26,2021-08-30,Energy,1000000,2,0.00,0,Index Insurance,2022
+Test Demo PIE Sync,ACTIVE,wet season,Nigeria,rose,Acquisition,Identification,Test Demo PIE Sync,91,2021-11-01,2021-11-30,2021-11-29,Agriculture,100,2,100.00,0,Index Insurance,
+TEST-New project,ACTIVE,cherry,South Georgia and the South Sandwich Islands,cherryqa,Research,Research,cherry,0,2022-03-16,2022-03-09,2022-03-25,Energy,55,24,55.00,0,FieldSense,2424
+test project,ACTIVE,wet,Kenya,Moraa,Research,Research,Test Demo PIE Sync,87,2021-12-31,2021-12-31,2021-12-31,Agriculture,100000,3,10.00,0,Index Insurance,
+Test Project,ACTIVE,rain,Kenya,Moraa,Research,Research,Innovation,90,2021-12-21,2021-12-31,2021-12-31,Agriculture,0,2 years,0.00,0,Index Insurance,
+TestProject Peter,ACTIVE,Four Seasons,Kenya,laidbackpeter,Research,Research,Taifas Ent,28,,2022-02-28,,Agriculture,22222,3,2222222222.00,0,Index Insurance,2022
+TEST QA,ACTIVE,,Zambia,benson,Renewal,Renewal,Default Partner,92,2021-08-27,2021-08-27,,Agriculture,0,,0.00,0,Index Insurance,
+TESTQAA,ACTIVE,cc,Fuxin,cherryqa,Renewal,Renewal,NewKim,94,2021-12-07,2021-12-07,2021-12-20,Agriculture,0,3,0.00,0,Index Insurance,
+TESTRAL,ACTIVE,ccc,Dubai,cherryqa,Execution,CCE Preparation,NewKim,76,2021-12-07,2021-12-07,2021-12-15,Energy,4466666,3,4477777.00,4466666,Index Insurance,
+Test renewal,ACTIVE,ddru,Nigeria,Cristian,Execution,Payout Calculation,AA test,76,,2021-11-18,,Energy,100000,5,2000000.00,100000,Index Insurance,
+Test skyfall sync,ACTIVE,wet season,Nigeria,cherryqa,Acquisition,Identification,Skyfall sync,83,2021-12-01,2021-12-31,2021-12-14,Energy,10,3,10.00,0,Index Insurance,
+Test Sync,ACTIVE,dry season,Dubai,rose,Research,Research,A new,132,,2021-10-30,,Agriculture,20,1 year,20.00,0,Index Insurance,
+Test Sync Mavuno PIE,ACTIVE,dry season,Nigeria,rose,Research,Research,Test Sync Mavuno PIE,112,,2021-11-30,,Agriculture,30,2,30.00,0,Index Insurance,
+TESTT,ACTIVE,4,Fuxin,cherryqa,Acquisition,Contracting,cherryqa,70,,2021-12-14,2021-12-08,Agriculture,4,4,4.00,3,Index Insurance,32
+TestT-2022,ACTIVE,Long QA,Cubah,cherryqa,Research,Research,cherry,13,2022-02-02,2022-02-08,2022-02-13,Agriculture,22,5,22.00,0,FieldSense,2022
+test thursday,ACTIVE,Rain Season,Kenya,Moraa,Research,Research,TestClient,46,2022-01-20,2022-01-20,2022-01-31,Agriculture,10,2,10000.00,0,Dry Run,2022
+TestTT-2022,ACTIVE,55,vietnam,cherryqa,Research,Research,cherrykimmQQa,13,2022-02-02,2022-02-09,2022-02-06,Agriculture,6,4,6.00,0,Pay at Harvest,2022
+Thrive Agric2,ACTIVE,to remove this one,Nigeria,Cristian,Research,Research,CBN,81,,2021-12-22,,Energy,10000,3,1000000.00,0,Index Insurance,2022
+Thrive Agric DS,ACTIVE,,None,cherryqa,Acquisition,Identification,Default Partner,90,,2021-08-08,,Energy,0,,0.00,0,Index Insurance,
+Turkey Test,ACTIVE,Rain,Kenya,Moraa,Research,Research,KCEP,98,2021-11-29,2022-02-28,2022-02-15,Agriculture,30000000,2,50000000.00,0,Index Insurance,
+UrugayProject,ACTIVE,Long,Uruguay,Moraa,Acquisition,Invoicing,UruClient,13,2022-03-04,2022-06-30,2022-05-31,Agriculture,10,2years,10000.00,10,Dry Run,2022
+Vitalite ZM,ACTIVE,ggg,Madagascar,cherryqa,Research,Research,Vitalite,364,,2021-08-08,,Energy,799,cherry,500.00,0,Index Insurance,344
+Wakulima 2022,ACTIVE,Wet Season,Zambia,Moraa,Research,Research,KCEP,54,2022-01-12,2022-01-31,2022-01-31,Agriculture,10000,2,10.00,0,Index Insurance,2022
+WFP CB,ACTIVE,,None,roy,Renewal,Renewal,Default Partner,94,,2021-08-08,,Energy,0,,0.00,0,Index Insurance,
+WFP MDG 2021 DS,ACTIVE,,,roy,Research,Research,Default Partner,230,,2021-08-08,,Energy,0,,0.00,0,Index Insurance,
+WFP MW,ACTIVE,,Madagascar,benson,Renewal,Renewal,1,94,2021-08-17,2021-08-08,2021-08-01,Agriculture,0,,0.00,0,Index Insurance,
+ZA -  Version 2.0,ACTIVE,Main,Zambia,benson,Acquisition,Identification,ZA - GVT,97,2021-11-01,2022-11-30,2021-12-31,Agriculture,100,3,200.00,0,Index Insurance,
